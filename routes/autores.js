@@ -11,5 +11,5 @@ router.put("/:id", updateAutor)
 
 router.delete("/:id", deleteAutor)
 
-export default router
+export default router;
 
